@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-21T21:33:42.183Z",
+  "exportedAt": "2026-10-21T21:33:56.280Z",
   "people": [
     {
       "id": "p_anna",
@@ -59,14 +59,14 @@
       "id": "t_3",
       "title": "Созвон с подрядчиком по API",
       "notes": "",
-      "date": "2026-10-22",
+      "date": "2026-10-20",
       "startTime": "11:30",
       "endTime": "12:00",
       "assigneeId": "p_igor",
       "priority": "urgent",
       "status": "todo",
       "createdAt": "2026-10-20T08:00:00.000Z",
-      "updatedAt": "2026-10-20T08:00:00.000Z"
+      "updatedAt": "2026-10-21T21:33:55.675Z"
     },
     {
       "id": "t_5",
