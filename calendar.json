@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-21T21:28:29.285Z",
+  "exportedAt": "2026-10-21T21:28:35.855Z",
   "people": [
     {
       "id": "p_anna",
@@ -16,6 +16,11 @@
       "id": "p_lena",
       "name": "Алия",
       "color": "#10b981"
+    },
+    {
+      "id": "p_mvimji5wyweevs",
+      "name": "Ксения",
+      "color": "#f59e0b"
     }
   ],
   "tasks": [
