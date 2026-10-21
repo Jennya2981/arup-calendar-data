@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-21T21:28:47.700Z",
+  "exportedAt": "2026-10-21T21:29:16.269Z",
   "people": [
     {
       "id": "p_anna",
@@ -146,7 +146,7 @@
   "statuses": {
     "todo": {
       "label": "К выполнению",
-      "color": "#64748b",
+      "color": "#ef4444",
       "order": 0
     },
     "doing": {
