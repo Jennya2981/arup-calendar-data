@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-21T21:32:05.125Z",
+  "exportedAt": "2026-10-21T21:32:19.042Z",
   "people": [
     {
       "id": "p_anna",
@@ -64,19 +64,6 @@
       "endTime": "12:00",
       "assigneeId": "p_igor",
       "priority": "urgent",
-      "status": "todo",
-      "createdAt": "2026-10-20T08:00:00.000Z",
-      "updatedAt": "2026-10-20T08:00:00.000Z"
-    },
-    {
-      "id": "t_4",
-      "title": "Подготовить отчёт за неделю",
-      "notes": "Сводка по задачам и рискам.",
-      "date": "2026-10-20",
-      "startTime": "17:00",
-      "endTime": "",
-      "assigneeId": "p_anna",
-      "priority": "normal",
       "status": "todo",
       "createdAt": "2026-10-20T08:00:00.000Z",
       "updatedAt": "2026-10-20T08:00:00.000Z"
