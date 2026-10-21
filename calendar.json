@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-21T20:23:51.659Z",
+  "exportedAt": "2026-10-21T20:28:26.019Z",
   "people": [
     {
       "id": "p_anna",
@@ -18,45 +18,6 @@
       "color": "#10b981"
     }
   ],
-  "priorities": {
-    "low": {
-      "label": "Низкий",
-      "color": "#94a3b8",
-      "order": 0
-    },
-    "normal": {
-      "label": "Обычный",
-      "color": "#3b82f6",
-      "order": 1
-    },
-    "high": {
-      "label": "Высокий",
-      "color": "#f59e0b",
-      "order": 2
-    },
-    "urgent": {
-      "label": "Срочный",
-      "color": "#ef4444",
-      "order": 3
-    }
-  },
-  "statuses": {
-    "todo": {
-      "label": "К выполнению",
-      "color": "#64748b",
-      "order": 0
-    },
-    "doing": {
-      "label": "В работе",
-      "color": "#0ea5e9",
-      "order": 1
-    },
-    "done": {
-      "label": "Выполнено",
-      "color": "#22c55e",
-      "order": 2
-    }
-  },
   "tasks": [
     {
       "id": "t_1",
@@ -148,6 +109,58 @@
       "status": "done",
       "createdAt": "2026-10-20T08:00:00.000Z",
       "updatedAt": "2026-10-20T08:00:00.000Z"
+    },
+    {
+      "id": "t_mvike4skdh8yue",
+      "title": "Общая задача 1792614505406",
+      "notes": "",
+      "date": "2026-10-21",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "assigneeId": "",
+      "priority": "high",
+      "status": "todo",
+      "createdAt": "2026-10-21T20:28:25.412Z",
+      "updatedAt": "2026-10-21T20:28:25.412Z"
     }
-  ]
+  ],
+  "priorities": {
+    "low": {
+      "label": "Низкий",
+      "color": "#94a3b8",
+      "order": 0
+    },
+    "normal": {
+      "label": "Обычный",
+      "color": "#3b82f6",
+      "order": 1
+    },
+    "high": {
+      "label": "Высокий",
+      "color": "#f59e0b",
+      "order": 2
+    },
+    "urgent": {
+      "label": "Срочный",
+      "color": "#ef4444",
+      "order": 3
+    }
+  },
+  "statuses": {
+    "todo": {
+      "label": "К выполнению",
+      "color": "#64748b",
+      "order": 0
+    },
+    "doing": {
+      "label": "В работе",
+      "color": "#0ea5e9",
+      "order": 1
+    },
+    "done": {
+      "label": "Выполнено",
+      "color": "#22c55e",
+      "order": 2
+    }
+  }
 }
