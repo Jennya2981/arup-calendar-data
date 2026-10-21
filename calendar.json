@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-21T21:31:17.859Z",
+  "exportedAt": "2026-10-21T21:31:39.927Z",
   "people": [
     {
       "id": "p_anna",
@@ -154,6 +154,11 @@
       "label": "Прямой эфир",
       "color": "#14b8a6",
       "order": 3
+    },
+    "pr_mvimng6zi9fye5": {
+      "label": "Совещание",
+      "color": "#4f46e5",
+      "order": 4
     }
   },
   "statuses": {
