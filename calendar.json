@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-21T21:33:08.841Z",
+  "exportedAt": "2026-10-21T21:33:42.183Z",
   "people": [
     {
       "id": "p_anna",
@@ -70,16 +70,16 @@
     },
     {
       "id": "t_5",
-      "title": "Обновить зависимости в бэклоге",
-      "notes": "",
+      "title": "Пост",
+      "notes": "Влада, картинки-карусель, текст в Битрикс",
       "date": "2026-10-23",
-      "startTime": "",
+      "startTime": "16:00",
       "endTime": "",
-      "assigneeId": "p_igor",
+      "assigneeId": "p_mvimjmbq93u8vl",
       "priority": "low",
       "status": "todo",
       "createdAt": "2026-10-20T08:00:00.000Z",
-      "updatedAt": "2026-10-20T08:00:00.000Z"
+      "updatedAt": "2026-10-21T21:33:41.571Z"
     },
     {
       "id": "t_6",
