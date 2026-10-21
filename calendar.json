@@ -1,0 +1,153 @@
+{
+  "version": 2,
+  "exportedAt": "2026-10-21T20:23:51.659Z",
+  "people": [
+    {
+      "id": "p_anna",
+      "name": "Анна Ковалёва",
+      "color": "#4f46e5"
+    },
+    {
+      "id": "p_igor",
+      "name": "Игорь Петров",
+      "color": "#0ea5e9"
+    },
+    {
+      "id": "p_lena",
+      "name": "Лена Соколова",
+      "color": "#10b981"
+    }
+  ],
+  "priorities": {
+    "low": {
+      "label": "Низкий",
+      "color": "#94a3b8",
+      "order": 0
+    },
+    "normal": {
+      "label": "Обычный",
+      "color": "#3b82f6",
+      "order": 1
+    },
+    "high": {
+      "label": "Высокий",
+      "color": "#f59e0b",
+      "order": 2
+    },
+    "urgent": {
+      "label": "Срочный",
+      "color": "#ef4444",
+      "order": 3
+    }
+  },
+  "statuses": {
+    "todo": {
+      "label": "К выполнению",
+      "color": "#64748b",
+      "order": 0
+    },
+    "doing": {
+      "label": "В работе",
+      "color": "#0ea5e9",
+      "order": 1
+    },
+    "done": {
+      "label": "Выполнено",
+      "color": "#22c55e",
+      "order": 2
+    }
+  },
+  "tasks": [
+    {
+      "id": "t_1",
+      "title": "Планёрка команды",
+      "notes": "Обсудить релиз и блокеры по спринту.",
+      "date": "2026-10-21",
+      "startTime": "10:00",
+      "endTime": "10:30",
+      "assigneeId": "p_anna",
+      "priority": "normal",
+      "status": "doing",
+      "createdAt": "2026-10-20T08:00:00.000Z",
+      "updatedAt": "2026-10-20T08:00:00.000Z"
+    },
+    {
+      "id": "t_2",
+      "title": "Ревью макета личного кабинета",
+      "notes": "",
+      "date": "2026-10-21",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "assigneeId": "p_lena",
+      "priority": "high",
+      "status": "todo",
+      "createdAt": "2026-10-20T08:00:00.000Z",
+      "updatedAt": "2026-10-20T08:00:00.000Z"
+    },
+    {
+      "id": "t_3",
+      "title": "Созвон с подрядчиком по API",
+      "notes": "",
+      "date": "2026-10-22",
+      "startTime": "11:30",
+      "endTime": "12:00",
+      "assigneeId": "p_igor",
+      "priority": "urgent",
+      "status": "todo",
+      "createdAt": "2026-10-20T08:00:00.000Z",
+      "updatedAt": "2026-10-20T08:00:00.000Z"
+    },
+    {
+      "id": "t_4",
+      "title": "Подготовить отчёт за неделю",
+      "notes": "Сводка по задачам и рискам.",
+      "date": "2026-10-20",
+      "startTime": "17:00",
+      "endTime": "",
+      "assigneeId": "p_anna",
+      "priority": "normal",
+      "status": "todo",
+      "createdAt": "2026-10-20T08:00:00.000Z",
+      "updatedAt": "2026-10-20T08:00:00.000Z"
+    },
+    {
+      "id": "t_5",
+      "title": "Обновить зависимости в бэклоге",
+      "notes": "",
+      "date": "2026-10-23",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_igor",
+      "priority": "low",
+      "status": "todo",
+      "createdAt": "2026-10-20T08:00:00.000Z",
+      "updatedAt": "2026-10-20T08:00:00.000Z"
+    },
+    {
+      "id": "t_6",
+      "title": "Тест-прогон после релиза",
+      "notes": "",
+      "date": "2026-10-24",
+      "startTime": "16:00",
+      "endTime": "17:30",
+      "assigneeId": "p_lena",
+      "priority": "high",
+      "status": "todo",
+      "createdAt": "2026-10-20T08:00:00.000Z",
+      "updatedAt": "2026-10-20T08:00:00.000Z"
+    },
+    {
+      "id": "t_7",
+      "title": "Согласование договора",
+      "notes": "",
+      "date": "2026-10-18",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_anna",
+      "priority": "normal",
+      "status": "done",
+      "createdAt": "2026-10-20T08:00:00.000Z",
+      "updatedAt": "2026-10-20T08:00:00.000Z"
+    }
+  ]
+}
