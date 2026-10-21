@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-21T20:38:12.948Z",
+  "exportedAt": "2026-10-21T20:41:28.388Z",
   "people": [
     {
       "id": "p_anna",
@@ -109,6 +109,19 @@
       "status": "done",
       "createdAt": "2026-10-20T08:00:00.000Z",
       "updatedAt": "2026-10-20T08:00:00.000Z"
+    },
+    {
+      "id": "t_mvikuwh7fa6tas",
+      "title": "РћР±С‰Р°СЏ Р·Р°РґР°С‡Р° 1792615287780",
+      "notes": "",
+      "date": "2026-10-21",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "assigneeId": "",
+      "priority": "high",
+      "status": "todo",
+      "createdAt": "2026-10-21T20:41:27.787Z",
+      "updatedAt": "2026-10-21T20:41:27.787Z"
     }
   ],
   "priorities": {
@@ -149,6 +162,5 @@
       "color": "#22c55e",
       "order": 2
     }
-  },
-  "__tag": "v1"
+  }
 }
