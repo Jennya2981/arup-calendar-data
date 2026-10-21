@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-21T21:32:19.042Z",
+  "exportedAt": "2026-10-21T21:32:57.024Z",
   "people": [
     {
       "id": "p_anna",
@@ -44,16 +44,16 @@
     },
     {
       "id": "t_2",
-      "title": "Ревью макета личного кабинета",
-      "notes": "",
+      "title": "Пост",
+      "notes": "Навыкоцентр. подход, диск,+картинка",
       "date": "2026-10-21",
-      "startTime": "14:00",
-      "endTime": "15:00",
-      "assigneeId": "p_lena",
-      "priority": "high",
+      "startTime": "00:00",
+      "endTime": "17:00",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
       "status": "todo",
       "createdAt": "2026-10-20T08:00:00.000Z",
-      "updatedAt": "2026-10-20T08:00:00.000Z"
+      "updatedAt": "2026-10-21T21:32:56.411Z"
     },
     {
       "id": "t_3",
