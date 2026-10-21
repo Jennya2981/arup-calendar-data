@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-21T21:29:30.636Z",
+  "exportedAt": "2026-10-21T21:29:36.025Z",
   "people": [
     {
       "id": "p_anna",
@@ -138,7 +138,7 @@
       "order": 2
     },
     "urgent": {
-      "label": "Срочный",
+      "label": "Прямой эфир",
       "color": "#ef4444",
       "order": 3
     }
