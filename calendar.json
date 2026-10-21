@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-21T20:37:40.198Z",
+  "exportedAt": "2026-10-21T20:38:12.948Z",
   "people": [
     {
       "id": "p_anna",
@@ -149,5 +149,6 @@
       "color": "#22c55e",
       "order": 2
     }
-  }
+  },
+  "__tag": "v1"
 }
