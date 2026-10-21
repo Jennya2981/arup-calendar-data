@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-21T21:32:57.024Z",
+  "exportedAt": "2026-10-21T21:33:08.841Z",
   "people": [
     {
       "id": "p_anna",
@@ -47,13 +47,13 @@
       "title": "Пост",
       "notes": "Навыкоцентр. подход, диск,+картинка",
       "date": "2026-10-21",
-      "startTime": "00:00",
+      "startTime": "16:00",
       "endTime": "17:00",
       "assigneeId": "p_mvimjmbq93u8vl",
       "priority": "low",
       "status": "todo",
       "createdAt": "2026-10-20T08:00:00.000Z",
-      "updatedAt": "2026-10-21T21:32:56.411Z"
+      "updatedAt": "2026-10-21T21:33:08.235Z"
     },
     {
       "id": "t_3",
