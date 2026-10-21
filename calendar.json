@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-21T21:34:11.149Z",
+  "exportedAt": "2026-10-21T22:06:48.451Z",
   "people": [
     {
       "id": "p_anna",
@@ -119,6 +119,19 @@
       "status": "todo",
       "createdAt": "2026-10-21T21:31:17.259Z",
       "updatedAt": "2026-10-21T21:31:56.614Z"
+    },
+    {
+      "id": "t_mvinwn4zg18u00",
+      "title": "Вебинар",
+      "notes": "Прогрев к курсу Менджер по персоналу",
+      "date": "2026-11-05",
+      "startTime": "20:00",
+      "endTime": "21:30",
+      "assigneeId": "p_anna",
+      "priority": "high",
+      "status": "todo",
+      "createdAt": "2026-10-21T22:06:47.843Z",
+      "updatedAt": "2026-10-21T22:06:47.843Z"
     }
   ],
   "priorities": {
