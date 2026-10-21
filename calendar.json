@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-21T20:54:36.061Z",
+  "exportedAt": "2026-10-21T20:55:49.675Z",
   "people": [
     {
       "id": "p_anna",
@@ -109,6 +109,19 @@
       "status": "done",
       "createdAt": "2026-10-20T08:00:00.000Z",
       "updatedAt": "2026-10-20T08:00:00.000Z"
+    },
+    {
+      "id": "t_mvildd1l6lp2b2",
+      "title": "Общая задача 1792616149058",
+      "notes": "",
+      "date": "2026-10-21",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "assigneeId": "",
+      "priority": "high",
+      "status": "todo",
+      "createdAt": "2026-10-21T20:55:49.065Z",
+      "updatedAt": "2026-10-21T20:55:49.065Z"
     }
   ],
   "priorities": {
