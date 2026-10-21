@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-21T21:31:48.261Z",
+  "exportedAt": "2026-10-21T21:31:57.216Z",
   "people": [
     {
       "id": "p_anna",
@@ -128,10 +128,10 @@
       "startTime": "20:00",
       "endTime": "21:00",
       "assigneeId": "p_mvimjmbq93u8vl",
-      "priority": "normal",
+      "priority": "pr_mvimng6zi9fye5",
       "status": "todo",
       "createdAt": "2026-10-21T21:31:17.259Z",
-      "updatedAt": "2026-10-21T21:31:17.259Z"
+      "updatedAt": "2026-10-21T21:31:56.614Z"
     }
   ],
   "priorities": {
