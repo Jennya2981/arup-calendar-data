@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-21T21:31:57.216Z",
+  "exportedAt": "2026-10-21T21:32:05.125Z",
   "people": [
     {
       "id": "p_anna",
@@ -33,14 +33,14 @@
       "id": "t_1",
       "title": "Планёрка команды",
       "notes": "Обсудить релиз и блокеры по спринту.",
-      "date": "2026-10-21",
+      "date": "2026-10-06",
       "startTime": "10:00",
       "endTime": "10:30",
       "assigneeId": "p_anna",
       "priority": "normal",
       "status": "doing",
       "createdAt": "2026-10-20T08:00:00.000Z",
-      "updatedAt": "2026-10-20T08:00:00.000Z"
+      "updatedAt": "2026-10-21T21:32:04.525Z"
     },
     {
       "id": "t_2",
