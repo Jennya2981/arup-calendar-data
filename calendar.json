@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-21T21:29:42.630Z",
+  "exportedAt": "2026-10-21T21:29:48.163Z",
   "people": [
     {
       "id": "p_anna",
@@ -139,7 +139,7 @@
     },
     "urgent": {
       "label": "Прямой эфир",
-      "color": "#ef4444",
+      "color": "#14b8a6",
       "order": 3
     }
   },
