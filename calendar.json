@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-21T21:33:56.280Z",
+  "exportedAt": "2026-10-21T21:34:11.149Z",
   "people": [
     {
       "id": "p_anna",
@@ -57,16 +57,16 @@
     },
     {
       "id": "t_3",
-      "title": "Созвон с подрядчиком по API",
+      "title": "Совещание",
       "notes": "",
       "date": "2026-10-20",
-      "startTime": "11:30",
-      "endTime": "12:00",
-      "assigneeId": "p_igor",
-      "priority": "urgent",
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "pr_mvimng6zi9fye5",
       "status": "todo",
       "createdAt": "2026-10-20T08:00:00.000Z",
-      "updatedAt": "2026-10-21T21:33:55.675Z"
+      "updatedAt": "2026-10-21T21:34:10.548Z"
     },
     {
       "id": "t_5",
