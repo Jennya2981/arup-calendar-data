@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-21T21:31:39.927Z",
+  "exportedAt": "2026-10-21T21:31:42.253Z",
   "people": [
     {
       "id": "p_anna",
@@ -142,7 +142,7 @@
     },
     "normal": {
       "label": "Рилс/Клип",
-      "color": "#3b82f6",
+      "color": "#0ea5e9",
       "order": 1
     },
     "high": {
