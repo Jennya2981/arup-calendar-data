@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-21T21:29:16.269Z",
+  "exportedAt": "2026-10-21T21:29:24.676Z",
   "people": [
     {
       "id": "p_anna",
@@ -123,7 +123,7 @@
   ],
   "priorities": {
     "low": {
-      "label": "Низкий",
+      "label": "Пост",
       "color": "#94a3b8",
       "order": 0
     },
