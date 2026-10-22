@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-21T22:06:48.451Z",
+  "exportedAt": "2026-10-22T14:49:39.048Z",
   "people": [
     {
       "id": "p_anna",
@@ -132,6 +132,19 @@
       "status": "todo",
       "createdAt": "2026-10-21T22:06:47.843Z",
       "updatedAt": "2026-10-21T22:06:47.843Z"
+    },
+    {
+      "id": "t_mvjnqb2bt5ixcu",
+      "title": "Вебинар",
+      "notes": "",
+      "date": "2026-11-12",
+      "startTime": "20:00",
+      "endTime": "21:30",
+      "assigneeId": "p_lena",
+      "priority": "high",
+      "status": "todo",
+      "createdAt": "2026-10-22T14:49:38.435Z",
+      "updatedAt": "2026-10-22T14:49:38.435Z"
     }
   ],
   "priorities": {
