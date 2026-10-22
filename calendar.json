@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-22T14:49:39.048Z",
+  "exportedAt": "2026-10-22T14:55:11.136Z",
   "people": [
     {
       "id": "p_anna",
@@ -145,6 +145,19 @@
       "status": "todo",
       "createdAt": "2026-10-22T14:49:38.435Z",
       "updatedAt": "2026-10-22T14:49:38.435Z"
+    },
+    {
+      "id": "t_mvjnxfb7qqzaeo",
+      "title": "Прогон Вебинара",
+      "notes": "тест вебинарной комнаты, подготовка материалов и ссылок",
+      "date": "2026-10-30",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_lena",
+      "priority": "high",
+      "status": "todo",
+      "createdAt": "2026-10-22T14:55:10.531Z",
+      "updatedAt": "2026-10-22T14:55:10.531Z"
     }
   ],
   "priorities": {
