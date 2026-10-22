@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-22T15:40:31.286Z",
+  "exportedAt": "2026-10-22T15:40:38.207Z",
   "people": [
     {
       "id": "p_anna",
@@ -218,11 +218,11 @@
       "date": "2026-11-19",
       "startTime": "20:00",
       "endTime": "21:30",
-      "assigneeId": "p_lena",
+      "assigneeId": "p_igor",
       "priority": "high",
       "status": "todo",
       "createdAt": "2026-10-22T15:40:30.685Z",
-      "updatedAt": "2026-10-22T15:40:30.685Z"
+      "updatedAt": "2026-10-22T15:40:37.600Z"
     }
   ],
   "priorities": {
