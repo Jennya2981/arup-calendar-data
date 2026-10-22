@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-22T14:59:18.477Z",
+  "exportedAt": "2026-10-22T14:59:51.623Z",
   "people": [
     {
       "id": "p_anna",
@@ -171,6 +171,19 @@
       "status": "todo",
       "createdAt": "2026-10-22T14:59:17.872Z",
       "updatedAt": "2026-10-22T14:59:17.872Z"
+    },
+    {
+      "id": "t_mvjo3fqmjc79bz",
+      "title": "Пост",
+      "notes": "Алия, диск, картинку создать",
+      "date": "2026-10-28",
+      "startTime": "15:00",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "createdAt": "2026-10-22T14:59:51.022Z",
+      "updatedAt": "2026-10-22T14:59:51.022Z"
     }
   ],
   "priorities": {
