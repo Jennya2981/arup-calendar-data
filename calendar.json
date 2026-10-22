@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-22T14:55:11.136Z",
+  "exportedAt": "2026-10-22T14:59:18.477Z",
   "people": [
     {
       "id": "p_anna",
@@ -158,6 +158,19 @@
       "status": "todo",
       "createdAt": "2026-10-22T14:55:10.531Z",
       "updatedAt": "2026-10-22T14:55:10.531Z"
+    },
+    {
+      "id": "t_mvjo2q5s98baql",
+      "title": "Пост",
+      "notes": "Ксения, диск, сделать картинку",
+      "date": "2026-10-26",
+      "startTime": "16:00",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "createdAt": "2026-10-22T14:59:17.872Z",
+      "updatedAt": "2026-10-22T14:59:17.872Z"
     }
   ],
   "priorities": {
