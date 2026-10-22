@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-10-22T14:59:51.623Z",
+  "exportedAt": "2026-10-22T15:00:22.133Z",
   "people": [
     {
       "id": "p_anna",
@@ -184,6 +184,19 @@
       "status": "todo",
       "createdAt": "2026-10-22T14:59:51.022Z",
       "updatedAt": "2026-10-22T14:59:51.022Z"
+    },
+    {
+      "id": "t_mvjo439y7rg8q6",
+      "title": "Рилс Алия",
+      "notes": "выбрать один из 2 оставшихся",
+      "date": "2026-10-27",
+      "startTime": "11:00",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "normal",
+      "status": "todo",
+      "createdAt": "2026-10-22T15:00:21.526Z",
+      "updatedAt": "2026-10-22T15:00:21.526Z"
     }
   ],
   "priorities": {
