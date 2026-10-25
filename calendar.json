@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "exportedAt": "2026-10-25T14:49:42.437Z",
+  "exportedAt": "2026-10-25T14:50:04.018Z",
   "people": [
     {
       "id": "p_anna",
@@ -80,19 +80,6 @@
       "status": "done",
       "createdAt": "2026-10-20T08:00:00.000Z",
       "updatedAt": "2026-10-25T14:49:31.815Z"
-    },
-    {
-      "id": "t_6",
-      "title": "Тест-прогон после релиза",
-      "notes": "",
-      "date": "2026-10-24",
-      "startTime": "16:00",
-      "endTime": "17:30",
-      "assigneeId": "p_lena",
-      "priority": "high",
-      "status": "todo",
-      "createdAt": "2026-10-20T08:00:00.000Z",
-      "updatedAt": "2026-10-20T08:00:00.000Z"
     },
     {
       "id": "t_7",
