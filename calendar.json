@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "exportedAt": "2026-10-25T14:49:32.424Z",
+  "exportedAt": "2026-10-25T14:49:39.102Z",
   "people": [
     {
       "id": "p_anna",
@@ -51,9 +51,9 @@
       "endTime": "17:00",
       "assigneeId": "p_mvimjmbq93u8vl",
       "priority": "low",
-      "status": "todo",
+      "status": "done",
       "createdAt": "2026-10-20T08:00:00.000Z",
-      "updatedAt": "2026-10-21T21:33:08.235Z"
+      "updatedAt": "2026-10-25T14:49:38.500Z"
     },
     {
       "id": "t_3",
