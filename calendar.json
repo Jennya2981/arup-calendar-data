@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "exportedAt": "2026-10-25T14:50:04.018Z",
+  "exportedAt": "2026-10-25T14:50:32.060Z",
   "people": [
     {
       "id": "p_anna",
@@ -210,6 +210,19 @@
       "status": "todo",
       "createdAt": "2026-10-22T15:40:30.685Z",
       "updatedAt": "2026-10-22T15:40:37.600Z"
+    },
+    {
+      "id": "t_mvny2zyua9bscs",
+      "title": "Посты дайджест о 3 курсах",
+      "notes": "",
+      "date": "2026-10-24",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "",
+      "priority": "normal",
+      "status": "todo",
+      "createdAt": "2026-10-25T14:50:31.446Z",
+      "updatedAt": "2026-10-25T14:50:31.446Z"
     }
   ],
   "priorities": {
