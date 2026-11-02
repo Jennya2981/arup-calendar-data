@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "exportedAt": "2026-11-02T14:02:58.523Z",
+  "exportedAt": "2026-11-02T14:03:09.347Z",
   "people": [
     {
       "id": "p_anna",
@@ -249,6 +249,19 @@
       "status": "doing",
       "createdAt": "2026-11-02T14:02:57.913Z",
       "updatedAt": "2026-11-02T14:02:57.913Z"
+    },
+    {
+      "id": "t_mvzbwvuylgu4sy",
+      "title": "Пост Алия",
+      "notes": "",
+      "date": "2026-11-04",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "normal",
+      "status": "todo",
+      "createdAt": "2026-11-02T14:03:08.746Z",
+      "updatedAt": "2026-11-02T14:03:08.746Z"
     }
   ],
   "priorities": {
