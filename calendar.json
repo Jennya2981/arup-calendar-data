@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "exportedAt": "2026-10-27T17:56:06.079Z",
+  "exportedAt": "2026-11-02T14:02:46.269Z",
   "people": [
     {
       "id": "p_anna",
@@ -223,6 +223,19 @@
       "status": "todo",
       "createdAt": "2026-10-25T14:50:31.446Z",
       "updatedAt": "2026-10-25T14:50:31.446Z"
+    },
+    {
+      "id": "t_mvzbwe1vq1j9ag",
+      "title": "Пост Ксения",
+      "notes": "",
+      "date": "2026-11-02",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "done",
+      "createdAt": "2026-11-02T14:02:45.667Z",
+      "updatedAt": "2026-11-02T14:02:45.667Z"
     }
   ],
   "priorities": {
