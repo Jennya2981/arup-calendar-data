@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "exportedAt": "2026-11-04T10:58:16.209Z",
+  "exportedAt": "2026-11-04T18:50:14.976Z",
   "people": [
     {
       "id": "p_anna",
@@ -450,6 +450,21 @@
       },
       "createdAt": "2026-11-04T10:58:15.602Z",
       "updatedAt": "2026-11-04T10:58:15.602Z"
+    },
+    {
+      "id": "t_mw2h1sknmapchs",
+      "title": "Созвон Алия, Влада, Женя",
+      "notes": "обсуждение нюансов по курсу начинающий HR+посты к продвижению",
+      "date": "2026-11-13",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "assigneeId": "",
+      "priority": "normal",
+      "status": "todo",
+      "seriesId": "",
+      "repeat": null,
+      "createdAt": "2026-11-04T18:50:14.375Z",
+      "updatedAt": "2026-11-04T18:50:14.375Z"
     }
   ],
   "priorities": {
