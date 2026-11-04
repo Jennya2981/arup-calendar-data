@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "exportedAt": "2026-11-04T18:50:53.935Z",
+  "exportedAt": "2026-11-04T18:51:50.301Z",
   "people": [
     {
       "id": "p_anna",
@@ -465,6 +465,21 @@
       "repeat": null,
       "createdAt": "2026-11-04T18:50:14.375Z",
       "updatedAt": "2026-11-04T18:50:24.741Z"
+    },
+    {
+      "id": "t_mw2h3u4ld02ftz",
+      "title": "Прогон вебинара с Натальей",
+      "notes": "подготовка технических моментов",
+      "date": "2026-11-04",
+      "startTime": "15:45",
+      "endTime": "17:15",
+      "assigneeId": "p_anna",
+      "priority": "pr_mvimng6zi9fye5",
+      "status": "done",
+      "seriesId": "",
+      "repeat": null,
+      "createdAt": "2026-11-04T18:51:49.701Z",
+      "updatedAt": "2026-11-04T18:51:49.701Z"
     }
   ],
   "priorities": {
