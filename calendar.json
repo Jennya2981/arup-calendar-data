@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "exportedAt": "2026-11-06T14:30:05.884Z",
+  "exportedAt": "2026-11-06T14:30:11.494Z",
   "people": [
     {
       "id": "p_anna",
@@ -145,13 +145,13 @@
       "date": "2026-11-12",
       "startTime": "20:00",
       "endTime": "21:30",
-      "assigneeId": "p_lena",
+      "assigneeId": "p_anna",
       "priority": "high",
       "status": "todo",
       "seriesId": "",
       "repeat": null,
       "createdAt": "2026-10-22T14:49:38.435Z",
-      "updatedAt": "2026-11-06T14:30:05.276Z"
+      "updatedAt": "2026-11-06T14:30:10.878Z"
     },
     {
       "id": "t_mvjnxfb7qqzaeo",
