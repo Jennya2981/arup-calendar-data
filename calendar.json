@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "exportedAt": "2026-11-09T21:13:46.014Z",
+  "exportedAt": "2026-11-09T21:13:52.730Z",
   "people": [
     {
       "id": "p_anna",
@@ -820,7 +820,7 @@
       "id": "t_mw9rb1kojko1fj",
       "title": "Пост Влада",
       "notes": "",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "startTime": "",
       "endTime": "",
       "assigneeId": "p_mvimjmbq93u8vl",
@@ -833,7 +833,7 @@
         "until": ""
       },
       "createdAt": "2026-11-09T21:11:45.336Z",
-      "updatedAt": "2026-11-09T21:11:45.336Z"
+      "updatedAt": "2026-11-09T21:13:52.120Z"
     },
     {
       "id": "t_mw9rb1ko6d7who",
