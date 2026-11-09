@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "exportedAt": "2026-11-09T21:11:45.939Z",
+  "exportedAt": "2026-11-09T21:11:59.716Z",
   "people": [
     {
       "id": "p_anna",
@@ -111,7 +111,7 @@
       "date": "2026-11-03",
       "startTime": "20:00",
       "endTime": "21:00",
-      "assigneeId": "p_mvimjmbq93u8vl",
+      "assigneeId": "p_anna",
       "priority": "pr_mvimng6zi9fye5",
       "status": "todo",
       "seriesId": "t_mvimmz63yfxrl1",
@@ -121,7 +121,7 @@
         "until": "2026-12-29"
       },
       "createdAt": "2026-10-21T21:31:17.259Z",
-      "updatedAt": "2026-11-09T21:07:58.000Z"
+      "updatedAt": "2026-11-09T21:11:59.102Z"
     },
     {
       "id": "t_mvinwn4zg18u00",
@@ -295,7 +295,7 @@
       "date": "2026-11-10",
       "startTime": "20:00",
       "endTime": "21:00",
-      "assigneeId": "p_mvimjmbq93u8vl",
+      "assigneeId": "p_anna",
       "priority": "pr_mvimng6zi9fye5",
       "status": "todo",
       "seriesId": "t_mvimmz63yfxrl1",
@@ -305,7 +305,7 @@
         "until": "2026-12-29"
       },
       "createdAt": "2026-11-09T21:07:58.000Z",
-      "updatedAt": "2026-11-09T21:07:58.000Z"
+      "updatedAt": "2026-11-09T21:11:59.102Z"
     },
     {
       "id": "t_mw9r665t14du0u",
@@ -314,7 +314,7 @@
       "date": "2026-11-17",
       "startTime": "20:00",
       "endTime": "21:00",
-      "assigneeId": "p_mvimjmbq93u8vl",
+      "assigneeId": "p_anna",
       "priority": "pr_mvimng6zi9fye5",
       "status": "todo",
       "seriesId": "t_mvimmz63yfxrl1",
@@ -324,7 +324,7 @@
         "until": "2026-12-29"
       },
       "createdAt": "2026-11-09T21:07:58.000Z",
-      "updatedAt": "2026-11-09T21:07:58.000Z"
+      "updatedAt": "2026-11-09T21:11:59.102Z"
     },
     {
       "id": "t_mw9r665tdkqbxc",
@@ -333,7 +333,7 @@
       "date": "2026-11-24",
       "startTime": "20:00",
       "endTime": "21:00",
-      "assigneeId": "p_mvimjmbq93u8vl",
+      "assigneeId": "p_anna",
       "priority": "pr_mvimng6zi9fye5",
       "status": "todo",
       "seriesId": "t_mvimmz63yfxrl1",
@@ -343,7 +343,7 @@
         "until": "2026-12-29"
       },
       "createdAt": "2026-11-09T21:07:58.000Z",
-      "updatedAt": "2026-11-09T21:07:58.000Z"
+      "updatedAt": "2026-11-09T21:11:59.102Z"
     },
     {
       "id": "t_mw9r665tdnj32d",
@@ -352,7 +352,7 @@
       "date": "2026-12-01",
       "startTime": "20:00",
       "endTime": "21:00",
-      "assigneeId": "p_mvimjmbq93u8vl",
+      "assigneeId": "p_anna",
       "priority": "pr_mvimng6zi9fye5",
       "status": "todo",
       "seriesId": "t_mvimmz63yfxrl1",
@@ -362,7 +362,7 @@
         "until": "2026-12-29"
       },
       "createdAt": "2026-11-09T21:07:58.000Z",
-      "updatedAt": "2026-11-09T21:07:58.000Z"
+      "updatedAt": "2026-11-09T21:11:59.102Z"
     },
     {
       "id": "t_mw9r665tlvha5v",
@@ -371,7 +371,7 @@
       "date": "2026-12-08",
       "startTime": "20:00",
       "endTime": "21:00",
-      "assigneeId": "p_mvimjmbq93u8vl",
+      "assigneeId": "p_anna",
       "priority": "pr_mvimng6zi9fye5",
       "status": "todo",
       "seriesId": "t_mvimmz63yfxrl1",
@@ -381,7 +381,7 @@
         "until": "2026-12-29"
       },
       "createdAt": "2026-11-09T21:07:58.000Z",
-      "updatedAt": "2026-11-09T21:07:58.000Z"
+      "updatedAt": "2026-11-09T21:11:59.102Z"
     },
     {
       "id": "t_mw9r665tmm860d",
@@ -390,7 +390,7 @@
       "date": "2026-12-15",
       "startTime": "20:00",
       "endTime": "21:00",
-      "assigneeId": "p_mvimjmbq93u8vl",
+      "assigneeId": "p_anna",
       "priority": "pr_mvimng6zi9fye5",
       "status": "todo",
       "seriesId": "t_mvimmz63yfxrl1",
@@ -400,7 +400,7 @@
         "until": "2026-12-29"
       },
       "createdAt": "2026-11-09T21:07:58.000Z",
-      "updatedAt": "2026-11-09T21:07:58.000Z"
+      "updatedAt": "2026-11-09T21:11:59.102Z"
     },
     {
       "id": "t_mw9r665tv1rjm9",
@@ -409,7 +409,7 @@
       "date": "2026-12-22",
       "startTime": "20:00",
       "endTime": "21:00",
-      "assigneeId": "p_mvimjmbq93u8vl",
+      "assigneeId": "p_anna",
       "priority": "pr_mvimng6zi9fye5",
       "status": "todo",
       "seriesId": "t_mvimmz63yfxrl1",
@@ -419,7 +419,7 @@
         "until": "2026-12-29"
       },
       "createdAt": "2026-11-09T21:07:58.000Z",
-      "updatedAt": "2026-11-09T21:07:58.000Z"
+      "updatedAt": "2026-11-09T21:11:59.102Z"
     },
     {
       "id": "t_mw9r665tbzxcn1",
@@ -428,7 +428,7 @@
       "date": "2026-12-29",
       "startTime": "20:00",
       "endTime": "21:00",
-      "assigneeId": "p_mvimjmbq93u8vl",
+      "assigneeId": "p_anna",
       "priority": "pr_mvimng6zi9fye5",
       "status": "todo",
       "seriesId": "t_mvimmz63yfxrl1",
@@ -438,7 +438,7 @@
         "until": "2026-12-29"
       },
       "createdAt": "2026-11-09T21:07:58.000Z",
-      "updatedAt": "2026-11-09T21:07:58.000Z"
+      "updatedAt": "2026-11-09T21:11:59.102Z"
     },
     {
       "id": "t_mvzbwe1vq1j9ag",
