@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "exportedAt": "2026-11-09T21:11:30.404Z",
+  "exportedAt": "2026-11-09T21:11:45.939Z",
   "people": [
     {
       "id": "p_anna",
@@ -1043,6 +1043,1013 @@
       "repeat": null,
       "createdAt": "2026-11-09T21:11:29.797Z",
       "updatedAt": "2026-11-09T21:11:29.797Z"
+    },
+    {
+      "id": "t_mw9rb1kojko1fj",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2026-11-12",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1ko6d7who",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2026-11-19",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1koqiqdoj",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2026-11-26",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1koqcfavm",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2026-12-03",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1koltz5cl",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2026-12-10",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1kob1c560",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2026-12-17",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1kovahrkn",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2026-12-24",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1koyhkit6",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2026-12-31",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1koal0d59",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2027-01-07",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1ko8upeeq",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2027-01-14",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1kovmx9nx",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2027-01-21",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1kovkdzcu",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2027-01-28",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1koesue4j",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2027-02-04",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1kow9aa1r",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2027-02-11",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1koy94k18",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2027-02-18",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1koz43imx",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2027-02-25",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1ko7sh9o1",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2027-03-04",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1kol91my4",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2027-03-11",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1ko2ivxyo",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2027-03-18",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1ko9wi02q",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2027-03-25",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1korwqqqf",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2027-04-01",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1ko2y5ahc",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2027-04-08",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1komyq8ro",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2027-04-15",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1koxfn8qr",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2027-04-22",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1kok050cu",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2027-04-29",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1ko9qe8bj",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2027-05-06",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1korino9c",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2027-05-13",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1kooiuv7v",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2027-05-20",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1kour2786",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2027-05-27",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1korfhg12",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2027-06-03",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1kowxkybw",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2027-06-10",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1ko4nvqq0",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2027-06-17",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1kot2yanb",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2027-06-24",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1koswueqq",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2027-07-01",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1kofilyyx",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2027-07-08",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1kox4s6mr",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2027-07-15",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1ko5vekyj",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2027-07-22",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1kopy4595",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2027-07-29",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1kouccy14",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2027-08-05",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1ko5mfj1u",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2027-08-12",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1kotkt9zd",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2027-08-19",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1koe3pkbp",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2027-08-26",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1ko0qvfj9",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2027-09-02",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1koopl2bo",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2027-09-09",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1kovzjw98",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2027-09-16",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1ko55tyjz",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2027-09-23",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1ko7w4qwi",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2027-09-30",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1kof1ncct",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2027-10-07",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1ko3hoysq",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2027-10-14",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1kovcj71z",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2027-10-21",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1ko6jig5d",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2027-10-28",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1kogeje2p",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2027-11-04",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mw9rb1kov9lyob",
+      "title": "Пост Влада",
+      "notes": "",
+      "date": "2027-11-11",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "s_mw9rb1kowgb8v1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": ""
+      },
+      "createdAt": "2026-11-09T21:11:45.336Z",
+      "updatedAt": "2026-11-09T21:11:45.336Z"
     }
   ],
   "priorities": {
