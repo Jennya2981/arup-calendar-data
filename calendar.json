@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "exportedAt": "2026-11-09T21:09:42.597Z",
+  "exportedAt": "2026-11-09T21:09:45.261Z",
   "people": [
     {
       "id": "p_anna",
@@ -616,25 +616,6 @@
       "title": "Пост Ксения",
       "notes": "",
       "date": "2026-11-23",
-      "startTime": "",
-      "endTime": "",
-      "assigneeId": "p_mvimjmbq93u8vl",
-      "priority": "low",
-      "status": "todo",
-      "seriesId": "t_mvzbwe1vq1j9ag",
-      "repeat": {
-        "freq": "weekdays",
-        "interval": 1,
-        "until": "2026-12-28"
-      },
-      "createdAt": "2026-11-09T21:08:27.811Z",
-      "updatedAt": "2026-11-09T21:08:27.811Z"
-    },
-    {
-      "id": "t_mw9r6t5wsikqtd",
-      "title": "Пост Ксения",
-      "notes": "",
-      "date": "2026-11-26",
       "startTime": "",
       "endTime": "",
       "assigneeId": "p_mvimjmbq93u8vl",
