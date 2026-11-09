@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "exportedAt": "2026-11-09T21:13:44.001Z",
+  "exportedAt": "2026-11-09T21:13:45.080Z",
   "people": [
     {
       "id": "p_anna",
@@ -896,7 +896,7 @@
       "id": "t_mw9rb1koltz5cl",
       "title": "Пост Влада",
       "notes": "",
-      "date": "2026-12-10",
+      "date": "2026-12-11",
       "startTime": "",
       "endTime": "",
       "assigneeId": "p_mvimjmbq93u8vl",
@@ -909,13 +909,13 @@
         "until": ""
       },
       "createdAt": "2026-11-09T21:11:45.336Z",
-      "updatedAt": "2026-11-09T21:11:45.336Z"
+      "updatedAt": "2026-11-09T21:13:44.479Z"
     },
     {
       "id": "t_mw9rb1kob1c560",
       "title": "Пост Влада",
       "notes": "",
-      "date": "2026-12-17",
+      "date": "2026-12-18",
       "startTime": "",
       "endTime": "",
       "assigneeId": "p_mvimjmbq93u8vl",
@@ -928,13 +928,13 @@
         "until": ""
       },
       "createdAt": "2026-11-09T21:11:45.336Z",
-      "updatedAt": "2026-11-09T21:11:45.336Z"
+      "updatedAt": "2026-11-09T21:13:45.411Z"
     },
     {
       "id": "t_mw9rb1kovahrkn",
       "title": "Пост Влада",
       "notes": "",
-      "date": "2026-12-24",
+      "date": "2026-12-25",
       "startTime": "",
       "endTime": "",
       "assigneeId": "p_mvimjmbq93u8vl",
@@ -947,7 +947,7 @@
         "until": ""
       },
       "createdAt": "2026-11-09T21:11:45.336Z",
-      "updatedAt": "2026-11-09T21:11:45.336Z"
+      "updatedAt": "2026-11-09T21:13:46.144Z"
     },
     {
       "id": "t_mw9rb1koyhkit6",
