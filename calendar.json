@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "exportedAt": "2026-11-09T21:07:23.927Z",
+  "exportedAt": "2026-11-09T21:07:58.602Z",
   "people": [
     {
       "id": "p_anna",
@@ -114,10 +114,14 @@
       "assigneeId": "p_mvimjmbq93u8vl",
       "priority": "pr_mvimng6zi9fye5",
       "status": "todo",
-      "seriesId": "",
-      "repeat": null,
+      "seriesId": "t_mvimmz63yfxrl1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": "2026-12-29"
+      },
       "createdAt": "2026-10-21T21:31:17.259Z",
-      "updatedAt": "2026-11-03T09:41:06.654Z"
+      "updatedAt": "2026-11-09T21:07:58.000Z"
     },
     {
       "id": "t_mvinwn4zg18u00",
@@ -298,6 +302,158 @@
       "repeat": null,
       "createdAt": "2026-11-02T14:03:20.144Z",
       "updatedAt": "2026-11-08T17:47:38.215Z"
+    },
+    {
+      "id": "t_mw9r665twcfims",
+      "title": "Совещание",
+      "notes": "Обсуждение процессов",
+      "date": "2026-11-10",
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "pr_mvimng6zi9fye5",
+      "status": "todo",
+      "seriesId": "t_mvimmz63yfxrl1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": "2026-12-29"
+      },
+      "createdAt": "2026-11-09T21:07:58.000Z",
+      "updatedAt": "2026-11-09T21:07:58.000Z"
+    },
+    {
+      "id": "t_mw9r665t14du0u",
+      "title": "Совещание",
+      "notes": "Обсуждение процессов",
+      "date": "2026-11-17",
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "pr_mvimng6zi9fye5",
+      "status": "todo",
+      "seriesId": "t_mvimmz63yfxrl1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": "2026-12-29"
+      },
+      "createdAt": "2026-11-09T21:07:58.000Z",
+      "updatedAt": "2026-11-09T21:07:58.000Z"
+    },
+    {
+      "id": "t_mw9r665tdkqbxc",
+      "title": "Совещание",
+      "notes": "Обсуждение процессов",
+      "date": "2026-11-24",
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "pr_mvimng6zi9fye5",
+      "status": "todo",
+      "seriesId": "t_mvimmz63yfxrl1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": "2026-12-29"
+      },
+      "createdAt": "2026-11-09T21:07:58.000Z",
+      "updatedAt": "2026-11-09T21:07:58.000Z"
+    },
+    {
+      "id": "t_mw9r665tdnj32d",
+      "title": "Совещание",
+      "notes": "Обсуждение процессов",
+      "date": "2026-12-01",
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "pr_mvimng6zi9fye5",
+      "status": "todo",
+      "seriesId": "t_mvimmz63yfxrl1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": "2026-12-29"
+      },
+      "createdAt": "2026-11-09T21:07:58.000Z",
+      "updatedAt": "2026-11-09T21:07:58.000Z"
+    },
+    {
+      "id": "t_mw9r665tlvha5v",
+      "title": "Совещание",
+      "notes": "Обсуждение процессов",
+      "date": "2026-12-08",
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "pr_mvimng6zi9fye5",
+      "status": "todo",
+      "seriesId": "t_mvimmz63yfxrl1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": "2026-12-29"
+      },
+      "createdAt": "2026-11-09T21:07:58.000Z",
+      "updatedAt": "2026-11-09T21:07:58.000Z"
+    },
+    {
+      "id": "t_mw9r665tmm860d",
+      "title": "Совещание",
+      "notes": "Обсуждение процессов",
+      "date": "2026-12-15",
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "pr_mvimng6zi9fye5",
+      "status": "todo",
+      "seriesId": "t_mvimmz63yfxrl1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": "2026-12-29"
+      },
+      "createdAt": "2026-11-09T21:07:58.000Z",
+      "updatedAt": "2026-11-09T21:07:58.000Z"
+    },
+    {
+      "id": "t_mw9r665tv1rjm9",
+      "title": "Совещание",
+      "notes": "Обсуждение процессов",
+      "date": "2026-12-22",
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "pr_mvimng6zi9fye5",
+      "status": "todo",
+      "seriesId": "t_mvimmz63yfxrl1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": "2026-12-29"
+      },
+      "createdAt": "2026-11-09T21:07:58.000Z",
+      "updatedAt": "2026-11-09T21:07:58.000Z"
+    },
+    {
+      "id": "t_mw9r665tbzxcn1",
+      "title": "Совещание",
+      "notes": "Обсуждение процессов",
+      "date": "2026-12-29",
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "pr_mvimng6zi9fye5",
+      "status": "todo",
+      "seriesId": "t_mvimmz63yfxrl1",
+      "repeat": {
+        "freq": "weekly",
+        "interval": 1,
+        "until": "2026-12-29"
+      },
+      "createdAt": "2026-11-09T21:07:58.000Z",
+      "updatedAt": "2026-11-09T21:07:58.000Z"
     }
   ],
   "priorities": {
