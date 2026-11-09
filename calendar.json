@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "exportedAt": "2026-11-09T21:13:52.730Z",
+  "exportedAt": "2026-11-09T21:13:53.682Z",
   "people": [
     {
       "id": "p_anna",
@@ -839,7 +839,7 @@
       "id": "t_mw9rb1ko6d7who",
       "title": "Пост Влада",
       "notes": "",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "startTime": "",
       "endTime": "",
       "assigneeId": "p_mvimjmbq93u8vl",
@@ -852,13 +852,13 @@
         "until": ""
       },
       "createdAt": "2026-11-09T21:11:45.336Z",
-      "updatedAt": "2026-11-09T21:11:45.336Z"
+      "updatedAt": "2026-11-09T21:13:53.077Z"
     },
     {
       "id": "t_mw9rb1koqiqdoj",
       "title": "Пост Влада",
       "notes": "",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "startTime": "",
       "endTime": "",
       "assigneeId": "p_mvimjmbq93u8vl",
@@ -871,7 +871,7 @@
         "until": ""
       },
       "createdAt": "2026-11-09T21:11:45.336Z",
-      "updatedAt": "2026-11-09T21:11:45.336Z"
+      "updatedAt": "2026-11-09T21:13:54.863Z"
     },
     {
       "id": "t_mw9rb1koqcfavm",
