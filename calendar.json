@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "exportedAt": "2026-11-10T17:52:10.174Z",
+  "exportedAt": "2026-11-10T17:52:23.090Z",
   "people": [
     {
       "id": "p_anna",
@@ -1822,6 +1822,21 @@
       },
       "createdAt": "2026-11-09T21:11:45.336Z",
       "updatedAt": "2026-11-09T21:11:45.336Z"
+    },
+    {
+      "id": "t_mwazmhn4niqah7",
+      "title": "Вебинар \"Hr аналитика в кризис. Как сохранить команду и оптимизировать процессы\"",
+      "notes": "",
+      "date": "2026-12-03",
+      "startTime": "20:00",
+      "endTime": "",
+      "assigneeId": "p_lena",
+      "priority": "high",
+      "status": "todo",
+      "seriesId": "",
+      "repeat": null,
+      "createdAt": "2026-11-10T17:52:22.480Z",
+      "updatedAt": "2026-11-10T17:52:22.480Z"
     }
   ],
   "priorities": {
