@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "exportedAt": "2026-11-09T21:13:55.473Z",
+  "exportedAt": "2026-11-10T17:51:33.148Z",
   "people": [
     {
       "id": "p_anna",
@@ -140,18 +140,18 @@
     },
     {
       "id": "t_mvjnqb2bt5ixcu",
-      "title": "Вебинар \"Hr аналитика в кризис. Как сохранить команду и оптимизировать процессы\"",
+      "title": "Повтор вебинара Тест-драйв профессии",
       "notes": "",
       "date": "2026-11-12",
       "startTime": "20:00",
       "endTime": "21:30",
-      "assigneeId": "p_lena",
+      "assigneeId": "p_anna",
       "priority": "high",
       "status": "todo",
       "seriesId": "",
       "repeat": null,
       "createdAt": "2026-10-22T14:49:38.435Z",
-      "updatedAt": "2026-10-27T17:15:53.567Z"
+      "updatedAt": "2026-11-10T17:51:32.536Z"
     },
     {
       "id": "t_mvjo2q5s98baql",
