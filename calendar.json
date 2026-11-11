@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "exportedAt": "2026-11-11T16:16:17.896Z",
+  "exportedAt": "2026-11-11T16:16:22.768Z",
   "people": [
     {
       "id": "p_anna",
@@ -1873,7 +1873,7 @@
       "title": "Тест вебинарной комнаты с Натальей",
       "notes": "",
       "date": "2026-11-11",
-      "startTime": "",
+      "startTime": "16:00",
       "endTime": "",
       "assigneeId": "p_anna",
       "priority": "high",
@@ -1881,7 +1881,7 @@
       "seriesId": "",
       "repeat": null,
       "createdAt": "2026-11-11T16:15:46.441Z",
-      "updatedAt": "2026-11-11T16:15:46.441Z"
+      "updatedAt": "2026-11-11T16:16:22.168Z"
     }
   ],
   "priorities": {
