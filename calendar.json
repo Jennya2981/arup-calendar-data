@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "exportedAt": "2026-11-11T16:15:02.934Z",
+  "exportedAt": "2026-11-11T16:15:16.149Z",
   "people": [
     {
       "id": "p_anna",
@@ -1852,6 +1852,21 @@
       "repeat": null,
       "createdAt": "2026-11-11T16:15:02.320Z",
       "updatedAt": "2026-11-11T16:15:02.320Z"
+    },
+    {
+      "id": "t_mwcblg7vl30f0c",
+      "title": "Рилс Влады",
+      "notes": "",
+      "date": "2026-11-11",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "normal",
+      "status": "done",
+      "seriesId": "",
+      "repeat": null,
+      "createdAt": "2026-11-11T16:15:15.547Z",
+      "updatedAt": "2026-11-11T16:15:15.547Z"
     }
   ],
   "priorities": {
