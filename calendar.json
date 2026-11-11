@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "exportedAt": "2026-11-11T16:15:47.055Z",
+  "exportedAt": "2026-11-11T16:16:11.699Z",
   "people": [
     {
       "id": "p_anna",
@@ -1843,7 +1843,7 @@
       "title": "Пост-анонс вебинара",
       "notes": "",
       "date": "2026-11-11",
-      "startTime": "",
+      "startTime": "16:00",
       "endTime": "",
       "assigneeId": "p_mvimjmbq93u8vl",
       "priority": "normal",
@@ -1851,7 +1851,7 @@
       "seriesId": "",
       "repeat": null,
       "createdAt": "2026-11-11T16:15:02.320Z",
-      "updatedAt": "2026-11-11T16:15:02.320Z"
+      "updatedAt": "2026-11-11T16:16:11.094Z"
     },
     {
       "id": "t_mwcblg7vl30f0c",
