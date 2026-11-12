@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "exportedAt": "2026-11-12T17:20:01.454Z",
+  "exportedAt": "2026-11-12T17:26:38.459Z",
   "people": [
     {
       "id": "p_anna",
@@ -1887,7 +1887,7 @@
       "id": "t_mwdt75juwgmsbj",
       "title": "Утренний вебинар",
       "notes": "Повтор повтора вебинара Специалист",
-      "date": "2026-11-17",
+      "date": "2026-11-24",
       "startTime": "11:00",
       "endTime": "12:30",
       "assigneeId": "p_anna",
@@ -1896,7 +1896,7 @@
       "seriesId": "",
       "repeat": null,
       "createdAt": "2026-11-12T17:15:47.802Z",
-      "updatedAt": "2026-11-12T17:15:47.802Z"
+      "updatedAt": "2026-11-12T17:26:37.854Z"
     }
   ],
   "priorities": {
