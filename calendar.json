@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "exportedAt": "2026-11-16T09:26:39.808Z",
+  "exportedAt": "2026-11-16T09:27:13.896Z",
   "people": [
     {
       "id": "p_anna",
@@ -2002,6 +2002,22 @@
       "history": [],
       "createdAt": "2026-11-11T16:15:46.441Z",
       "updatedAt": "2026-11-11T16:16:27.749Z"
+    },
+    {
+      "id": "t_mwj27yxcccaxms",
+      "title": "Пост к Специалисту",
+      "notes": "",
+      "date": "2026-11-17",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "doing",
+      "seriesId": "",
+      "repeat": null,
+      "history": [],
+      "createdAt": "2026-11-16T09:27:13.296Z",
+      "updatedAt": "2026-11-16T09:27:13.296Z"
     }
   ],
   "priorities": {
