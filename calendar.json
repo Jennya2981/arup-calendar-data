@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "exportedAt": "2026-11-16T09:28:04.683Z",
+  "exportedAt": "2026-11-16T20:53:27.383Z",
   "people": [
     {
       "id": "p_anna",
@@ -2066,6 +2066,22 @@
       "history": [],
       "createdAt": "2026-11-16T09:27:59.136Z",
       "updatedAt": "2026-11-16T09:27:59.136Z"
+    },
+    {
+      "id": "t_mwjqqglaro6ea9",
+      "title": "Статья в Дзен анонс вебинара",
+      "notes": "",
+      "date": "2026-11-16",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "done",
+      "seriesId": "",
+      "repeat": null,
+      "history": [],
+      "createdAt": "2026-11-16T20:53:26.782Z",
+      "updatedAt": "2026-11-16T20:53:26.782Z"
     }
   ],
   "priorities": {
