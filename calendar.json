@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "exportedAt": "2026-11-12T19:50:04.507Z",
+  "exportedAt": "2026-11-16T09:26:25.672Z",
   "people": [
     {
       "id": "p_anna",
@@ -229,7 +229,7 @@
     },
     {
       "id": "t_mvjpjdszsgn4uy",
-      "title": "Вебинар",
+      "title": "Вебинар Найм по навыкам в эпоху ИИ",
       "notes": "",
       "date": "2026-11-26",
       "startTime": "20:00",
@@ -241,7 +241,7 @@
       "repeat": null,
       "history": [],
       "createdAt": "2026-10-22T15:40:14.627Z",
-      "updatedAt": "2026-11-10T17:52:09.568Z"
+      "updatedAt": "2026-11-16T09:26:25.069Z"
     },
     {
       "id": "t_mvjpjq71q3j5vi",
