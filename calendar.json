@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "exportedAt": "2026-11-16T20:53:55.895Z",
+  "exportedAt": "2026-11-16T20:54:19.403Z",
   "people": [
     {
       "id": "p_anna",
@@ -2114,6 +2114,11 @@
       "label": "Для информации",
       "color": "#8b5cf6",
       "order": 5
+    },
+    "pr_mwjqrkqbifc4yv": {
+      "label": "Анонс",
+      "color": "#ef4444",
+      "order": 6
     }
   },
   "statuses": {
