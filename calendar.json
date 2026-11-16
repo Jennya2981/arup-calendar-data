@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "exportedAt": "2026-11-16T09:27:13.896Z",
+  "exportedAt": "2026-11-16T09:27:32.616Z",
   "people": [
     {
       "id": "p_anna",
@@ -2018,6 +2018,22 @@
       "history": [],
       "createdAt": "2026-11-16T09:27:13.296Z",
       "updatedAt": "2026-11-16T09:27:13.296Z"
+    },
+    {
+      "id": "t_mwj28dd9ulgrx8",
+      "title": "Анонс вебинара",
+      "notes": "",
+      "date": "2026-11-17",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "",
+      "repeat": null,
+      "history": [],
+      "createdAt": "2026-11-16T09:27:32.013Z",
+      "updatedAt": "2026-11-16T09:27:32.013Z"
     }
   ],
   "priorities": {
