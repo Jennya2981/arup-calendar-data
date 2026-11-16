@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "exportedAt": "2026-11-16T09:27:43.827Z",
+  "exportedAt": "2026-11-16T09:27:59.744Z",
   "people": [
     {
       "id": "p_anna",
@@ -2050,6 +2050,22 @@
       "history": [],
       "createdAt": "2026-11-16T09:27:43.215Z",
       "updatedAt": "2026-11-16T09:27:43.215Z"
+    },
+    {
+      "id": "t_mwj28yaozshgz4",
+      "title": "Анонс за 2 часа до вебинара",
+      "notes": "",
+      "date": "2026-11-19",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "",
+      "repeat": null,
+      "history": [],
+      "createdAt": "2026-11-16T09:27:59.136Z",
+      "updatedAt": "2026-11-16T09:27:59.136Z"
     }
   ],
   "priorities": {
