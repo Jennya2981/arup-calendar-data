@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "exportedAt": "2026-11-17T11:50:06.570Z",
+  "exportedAt": "2026-11-17T11:50:30.327Z",
   "people": [
     {
       "id": "p_anna",
@@ -2082,6 +2082,22 @@
       "history": [],
       "createdAt": "2026-11-16T20:53:26.782Z",
       "updatedAt": "2026-11-16T20:53:26.782Z"
+    },
+    {
+      "id": "t_mwkms2n3fp0ohc",
+      "title": "Пост к специалисту Алия",
+      "notes": "",
+      "date": "2026-11-19",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "todo",
+      "seriesId": "",
+      "repeat": null,
+      "history": [],
+      "createdAt": "2026-11-17T11:50:29.727Z",
+      "updatedAt": "2026-11-17T11:50:29.727Z"
     }
   ],
   "priorities": {
