@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "exportedAt": "2026-11-17T11:50:30.327Z",
+  "exportedAt": "2026-11-17T16:45:51.226Z",
   "people": [
     {
       "id": "p_anna",
@@ -38,12 +38,12 @@
       "endTime": "10:30",
       "assigneeId": "p_anna",
       "priority": "normal",
-      "status": "doing",
+      "status": "done",
       "seriesId": "",
       "repeat": null,
       "history": [],
       "createdAt": "2026-10-20T08:00:00.000Z",
-      "updatedAt": "2026-10-21T21:32:04.525Z"
+      "updatedAt": "2026-11-17T16:45:50.623Z"
     },
     {
       "id": "t_2",
@@ -2164,5 +2164,26 @@
       "order": 4
     }
   },
-  "users": []
+  "users": [
+    {
+      "id": "u_legacy_test",
+      "login": "colleague@example.com",
+      "passHash": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "email": "colleague@example.com",
+      "assigneeId": "p_anna",
+      "notify": {
+        "onAssign": true,
+        "onMove": true,
+        "remind": true,
+        "beforeMinutes": [
+          15
+        ]
+      },
+      "channels": [
+        "email"
+      ],
+      "createdAt": "2026-11-17T16:30:53.005Z",
+      "updatedAt": "2026-11-17T16:30:53.006Z"
+    }
+  ]
 }
