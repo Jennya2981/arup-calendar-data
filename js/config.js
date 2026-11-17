@@ -9,5 +9,7 @@ window.CAL_CONFIG = {
   repo: 'arup-calendar-data',
   branch: 'main',
   file: 'calendar.json',
+  staticFile: 'calendar.json',  // читаем файл рядом с сайтом — коллегам не нужен GitHub
+  legacyKeys: true,             // подхватываем старые регистрации из браузера
   pollMs: 20000                 // как часто проверять обновления (мс)
 };

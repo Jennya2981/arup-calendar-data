@@ -13,9 +13,41 @@ window.CAL = window.CAL || {};
   // Ключи localStorage должны отличаться для разных репозиториев: все страницы
   // github.io живут на одном домене и иначе делят кэш и токены друг с другом.
   const NS = (CFG.repo || 'local').replace(/[^a-zA-Z0-9_-]/g, '_');
-  const TOKEN_KEY = 'task-calendar.' + NS + '.token';
-  const CACHE_KEY = 'task-calendar.' + NS + '.shared-cache';
+  const TOKEN_KEY = 'token';
+  const CACHE_KEY = 'shared-cache';
   const API = 'https://api.github.com';
+
+  // Старые браузеры коллег хранили токен и кэш под простыми ключами.
+  // Если такой ключ есть — переносим его в пространство этого репозитория,
+  // чтобы люди входили по тем же данным, что и раньше.
+  function storageKey(name) { return 'task-calendar.' + NS + '.' + name; }
+  function legacyStorageKey(name) { return 'task-calendar.' + name; }
+
+  function storageGet(name) {
+    let raw = null;
+    try { raw = localStorage.getItem(storageKey(name)); } catch (err) { return null; }
+    if (raw !== null) return raw;
+    if (!CFG.legacyKeys) return null;
+    try {
+      const old = localStorage.getItem(legacyStorageKey(name));
+      if (old !== null) {
+        localStorage.setItem(storageKey(name), old);
+        return old;
+      }
+    } catch (err) { /* приватный режим */ }
+    return null;
+  }
+
+  function storageSet(name, value) {
+    try { localStorage.setItem(storageKey(name), value); } catch (err) { /* приватный режим */ }
+  }
+
+  function storageRemove(name) {
+    try {
+      localStorage.removeItem(storageKey(name));
+      if (CFG.legacyKeys) localStorage.removeItem(legacyStorageKey(name));
+    } catch (err) { /* приватный режим */ }
+  }
 
   let status = { state: 'idle', message: '', at: Date.now() };
   const statusListeners = [];
@@ -27,7 +59,7 @@ window.CAL = window.CAL || {};
   /* ----------------------------- Настройки ------------------------------- */
 
   function enabled() {
-    return !!(CFG.shared && CFG.owner && CFG.repo && CFG.file);
+    return !!(CFG.shared && (CFG.staticFile || (CFG.owner && CFG.repo && CFG.file)));
   }
 
   function pollMs() {
@@ -61,15 +93,15 @@ window.CAL = window.CAL || {};
   /* ------------------------------- Ключ ---------------------------------- */
 
   function getToken() {
-    try { return localStorage.getItem(TOKEN_KEY) || ''; } catch (err) { return ''; }
+    return storageGet(TOKEN_KEY) || '';
   }
 
   function setToken(token) {
-    try { localStorage.setItem(TOKEN_KEY, token || ''); } catch (err) { /* приватный режим */ }
+    storageSet(TOKEN_KEY, token || '');
   }
 
   function clearToken() {
-    try { localStorage.removeItem(TOKEN_KEY); } catch (err) { /* пусто */ }
+    storageRemove(TOKEN_KEY);
   }
 
   function hasToken() {
@@ -105,7 +137,7 @@ window.CAL = window.CAL || {};
 
   function check(data) {
     if (!data || !Array.isArray(data.tasks)) throw new Error('неожиданный формат данных');
-    try { localStorage.setItem(CACHE_KEY, JSON.stringify(data)); } catch (err) { /* пусто */ }
+    storageSet(CACHE_KEY, JSON.stringify(data));
     return data;
   }
 
@@ -158,16 +190,29 @@ window.CAL = window.CAL || {};
     return check(await res.json());
   }
 
+  /** Чтение файла рядом с сайтом: не требует GitHub-аккаунта у зрителя. */
+  async function loadStatic() {
+    const url = CFG.staticFile + (String(CFG.staticFile).indexOf('?') >= 0 ? '&' : '?') + 'v=' + Date.now();
+    const res = await fetch(url, { cache: 'no-store' });
+    if (!res.ok) throw new Error('не удалось прочитать календарь (' + res.status + ')');
+    return check(await res.json());
+  }
+
   /**
    * Чтение календаря.
    * С ключом — через API: без ограничений и сразу после записи.
-   * Без ключа — тоже через API (60 запросов в час на адрес); когда квота
-   * кончается, работаем с открытой ссылкой и возвращаемся к API после сброса.
+   * Без ключа — из файла рядом с сайтом, либо через API, если staticFile не задан.
    */
   async function load() {
     const token = getToken();
     if (token) {
       const data = await loadApi(token);
+      setStatus('ok', '');
+      return data;
+    }
+
+    if (CFG.staticFile) {
+      const data = await loadStatic();
       setStatus('ok', '');
       return data;
     }
@@ -191,7 +236,7 @@ window.CAL = window.CAL || {};
 
   function readCache() {
     try {
-      const raw = localStorage.getItem(CACHE_KEY);
+      const raw = storageGet(CACHE_KEY);
       return raw ? JSON.parse(raw) : null;
     } catch (err) {
       return null;

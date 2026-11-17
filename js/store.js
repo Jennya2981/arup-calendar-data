@@ -12,13 +12,44 @@ window.CAL = window.CAL || {};
   // Пространство имён по репозиторию: страницы на jennya2981.github.io
   // используют один домен, поэтому ключи разных календарей не должны пересекаться.
   const NS = (CFG.repo || 'local').replace(/[^a-zA-Z0-9_-]/g, '_');
-  const STORAGE_KEY = 'task-calendar.' + NS + '.v1';
+  const STORAGE_KEY = 'v1';
 
   /* Права администратора: выдаются только этому браузеру после ввода пароля владельца.
      Пароль хранится не текстом, а SHA-256 хэшем — чтобы его нельзя было прочитать в коде.
      Чтобы сменить пароль: node -e "console.log(require('crypto').createHash('sha256').update('НОВЫЙ_ПАРОЛЬ').digest('hex'))" */
-  const ADMIN_KEY = 'task-calendar.' + NS + '.admin';
+  const ADMIN_KEY = 'admin';
   const ADMIN_PWD_HASH = '4e1d0a7f06351f71e874ac97d7a645b4f92a0dbdd29cc169403f2f86057ac01a';
+
+  // Переносим старые данные из браузеров коллег: логины, пароли, сессии,
+  // уведомления и локальный календарь хранились без префикса репозитория.
+  function storageKey(name) { return 'task-calendar.' + NS + '.' + name; }
+  function legacyStorageKey(name) { return 'task-calendar.' + name; }
+
+  function storageGet(name) {
+    let raw = null;
+    try { raw = localStorage.getItem(storageKey(name)); } catch (err) { return null; }
+    if (raw !== null) return raw;
+    if (!CFG.legacyKeys) return null;
+    try {
+      const old = localStorage.getItem(legacyStorageKey(name));
+      if (old !== null) {
+        localStorage.setItem(storageKey(name), old);
+        return old;
+      }
+    } catch (err) { /* приватный режим */ }
+    return null;
+  }
+
+  function storageSet(name, value) {
+    try { localStorage.setItem(storageKey(name), value); } catch (err) { /* приватный режим */ }
+  }
+
+  function storageRemove(name) {
+    try {
+      localStorage.removeItem(storageKey(name));
+      if (CFG.legacyKeys) localStorage.removeItem(legacyStorageKey(name));
+    } catch (err) { /* приватный режим */ }
+  }
 
   const DEFAULT_PRIORITIES = {
     low:    { label: 'Низкий',        color: '#94a3b8' },
@@ -307,16 +338,16 @@ window.CAL = window.CAL || {};
 
   /* --------------------------- Пользователи/сессия ----------------------- */
 
-  const USER_SESSION_KEY = 'task-calendar.' + NS + '.userSession';
+  const USER_SESSION_KEY = 'userSession';
   // Регистрации, созданные в этом браузере: без ключа доступа коллега не может
   // записать нового пользователя в общий файл, поэтому копия хранится локально
   // и подмешивается к общему списку пользователей.
-  const LOCAL_USERS_KEY = 'task-calendar.' + NS + '.localUsers';
+  const LOCAL_USERS_KEY = 'localUsers';
   let userSession;  // { id, login, assigneeId, email, role: 'user'|'admin' }; undefined = ещё не загружена из localStorage
 
   function loadLocalUsers() {
     try {
-      const raw = localStorage.getItem(LOCAL_USERS_KEY);
+      const raw = storageGet(LOCAL_USERS_KEY);
       const list = raw ? JSON.parse(raw) : [];
       return Array.isArray(list) ? list : [];
     } catch (err) {
@@ -325,12 +356,12 @@ window.CAL = window.CAL || {};
   }
 
   function saveLocalUsers(list) {
-    try { localStorage.setItem(LOCAL_USERS_KEY, JSON.stringify(list || [])); } catch (err) { /* приватный режим */ }
+    storageSet(LOCAL_USERS_KEY, JSON.stringify(list || []));
   }
 
   function loadUserSession() {
     try {
-      const raw = localStorage.getItem(USER_SESSION_KEY);
+      const raw = storageGet(USER_SESSION_KEY);
       if (!raw) return null;
       const s = JSON.parse(raw);
       if (!s || !s.id || !s.login) return null;
@@ -343,11 +374,11 @@ window.CAL = window.CAL || {};
   function saveUserSession(s) {
     try {
       if (!s) {
-        localStorage.removeItem(USER_SESSION_KEY);
+        storageRemove(USER_SESSION_KEY);
         userSession = null;
         return;
       }
-      localStorage.setItem(USER_SESSION_KEY, JSON.stringify(s));
+      storageSet(USER_SESSION_KEY, JSON.stringify(s));
       userSession = s;
     } catch (err) {
       userSession = s || null;
@@ -464,13 +495,13 @@ window.CAL = window.CAL || {};
   /* Хранятся локально в браузере получателя. Общий файл задаёт лишь события:
      кому назначили/перенесли задачу — по привязке user.assigneeId. */
 
-  const NOTIF_KEY = 'task-calendar.' + NS + '.notifications';
-  const NOTIF_SEEN_KEY = 'task-calendar.' + NS + '.notifSeen';
+  const NOTIF_KEY = 'notifications';
+  const NOTIF_SEEN_KEY = 'notifSeen';
   const NOTIF_LIMIT = 100;
 
   function loadNotifications() {
     try {
-      const raw = localStorage.getItem(NOTIF_KEY);
+      const raw = storageGet(NOTIF_KEY);
       const list = raw ? JSON.parse(raw) : [];
       return Array.isArray(list) ? list : [];
     } catch (err) {
@@ -480,13 +511,13 @@ window.CAL = window.CAL || {};
 
   function saveNotifications(list) {
     try {
-      localStorage.setItem(NOTIF_KEY, JSON.stringify((list || []).slice(-NOTIF_LIMIT)));
+      storageSet(NOTIF_KEY, JSON.stringify((list || []).slice(-NOTIF_LIMIT)));
     } catch (err) { /* приватный режим */ }
   }
 
   function loadSeen() {
     try {
-      const raw = localStorage.getItem(NOTIF_SEEN_KEY);
+      const raw = storageGet(NOTIF_SEEN_KEY);
       const seen = raw ? JSON.parse(raw) : [];
       return Array.isArray(seen) ? seen : [];
     } catch (err) {
@@ -496,7 +527,7 @@ window.CAL = window.CAL || {};
 
   function saveSeen(list) {
     try {
-      localStorage.setItem(NOTIF_SEEN_KEY, JSON.stringify(list || []));
+      storageSet(NOTIF_SEEN_KEY, JSON.stringify(list || []));
     } catch (err) { /* приватный режим */ }
   }
 
@@ -753,7 +784,7 @@ window.CAL = window.CAL || {};
   function hasAdminGrant() {
     if (sharedEnabled() && CAL.db) return CAL.db.hasToken();
     try {
-      return localStorage.getItem(ADMIN_KEY) === '1';
+      return storageGet(ADMIN_KEY) === '1';
     } catch (err) {
       return false;
     }
@@ -782,7 +813,7 @@ window.CAL = window.CAL || {};
 
     return sha256(String(secret)).then((hash) => {
       if (hash !== ADMIN_PWD_HASH) return false;
-      try { localStorage.setItem(ADMIN_KEY, '1'); } catch (err) { /* приватный режим */ }
+      storageSet(ADMIN_KEY, '1');
       state.user.role = 'admin';
       saveLocal();
       emit(false);
@@ -793,7 +824,7 @@ window.CAL = window.CAL || {};
   /** Снятие прав администратора в этом браузере (возврат к режиму просмотра). */
   function lockAdmin() {
     if (sharedEnabled() && CAL.db) CAL.db.clearToken();
-    else { try { localStorage.removeItem(ADMIN_KEY); } catch (err) { /* пусто */ } }
+    else { storageRemove(ADMIN_KEY); }
     state.user.role = 'user';
     saveLocal();
     emit(false);
@@ -845,19 +876,15 @@ window.CAL = window.CAL || {};
   }
 
   function saveLocal() {
-    try {
-      localStorage.setItem(STORAGE_KEY, JSON.stringify({
-        version: 3,
-        tasks: state.tasks,
-        people: state.people,
-        priorities: state.priorities,
-        statuses: state.statuses,
-        users: ensureUsers(state),
-        user: state.user
-      }));
-    } catch (err) {
-      console.warn('Не удалось сохранить данные:', err);
-    }
+    storageSet(STORAGE_KEY, JSON.stringify({
+      version: 3,
+      tasks: state.tasks,
+      people: state.people,
+      priorities: state.priorities,
+      statuses: state.statuses,
+      users: ensureUsers(state),
+      user: state.user
+    }));
   }
 
   /** Отложенная запись в общее хранилище — чтобы не слать запрос на каждое движение мыши. */
@@ -943,12 +970,7 @@ window.CAL = window.CAL || {};
       return;
     }
 
-    let raw = null;
-    try {
-      raw = localStorage.getItem(STORAGE_KEY);
-    } catch (err) {
-      console.warn('localStorage недоступен:', err);
-    }
+    const raw = storageGet(STORAGE_KEY);
 
     if (!raw) {
       seed();
