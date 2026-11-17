@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "exportedAt": "2026-11-16T20:54:19.403Z",
+  "exportedAt": "2026-11-17T11:22:32.352Z",
   "people": [
     {
       "id": "p_anna",
@@ -2028,12 +2028,12 @@
       "endTime": "",
       "assigneeId": "p_mvimjmbq93u8vl",
       "priority": "low",
-      "status": "todo",
+      "status": "done",
       "seriesId": "",
       "repeat": null,
       "history": [],
       "createdAt": "2026-11-16T09:27:32.013Z",
-      "updatedAt": "2026-11-16T09:27:32.013Z"
+      "updatedAt": "2026-11-17T11:22:31.745Z"
     },
     {
       "id": "t_mwj28m0ff1a1ca",
