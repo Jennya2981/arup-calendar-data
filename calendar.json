@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "exportedAt": "2026-11-17T16:46:01.379Z",
+  "exportedAt": "2026-11-18T11:23:00.730Z",
   "people": [
     {
       "id": "p_anna",
@@ -2034,22 +2034,6 @@
       "history": [],
       "createdAt": "2026-11-16T09:27:32.013Z",
       "updatedAt": "2026-11-17T11:22:31.745Z"
-    },
-    {
-      "id": "t_mwj28m0ff1a1ca",
-      "title": "Повтор анонса вебинара",
-      "notes": "",
-      "date": "2026-11-18",
-      "startTime": "",
-      "endTime": "",
-      "assigneeId": "p_mvimjmbq93u8vl",
-      "priority": "low",
-      "status": "todo",
-      "seriesId": "",
-      "repeat": null,
-      "history": [],
-      "createdAt": "2026-11-16T09:27:43.215Z",
-      "updatedAt": "2026-11-16T09:28:04.074Z"
     },
     {
       "id": "t_mwj28yaozshgz4",
