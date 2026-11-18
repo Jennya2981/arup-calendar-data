@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "exportedAt": "2026-11-18T11:23:25.474Z",
+  "exportedAt": "2026-11-18T11:23:34.761Z",
   "people": [
     {
       "id": "p_anna",
@@ -2012,12 +2012,24 @@
       "endTime": "",
       "assigneeId": "p_mvimjmbq93u8vl",
       "priority": "low",
-      "status": "todo",
+      "status": "cancelled",
       "seriesId": "",
       "repeat": null,
-      "history": [],
+      "history": [
+        {
+          "type": "status",
+          "at": "2026-11-18T11:23:34.159Z",
+          "from": {
+            "status": "todo"
+          },
+          "to": {
+            "status": "cancelled"
+          },
+          "note": ""
+        }
+      ],
       "createdAt": "2026-11-16T09:27:59.136Z",
-      "updatedAt": "2026-11-16T09:27:59.136Z"
+      "updatedAt": "2026-11-18T11:23:34.159Z"
     },
     {
       "id": "t_mwjqqglaro6ea9",
