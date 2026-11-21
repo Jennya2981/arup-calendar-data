@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "exportedAt": "2026-11-21T14:55:00.286Z",
+  "exportedAt": "2026-11-21T14:55:32.241Z",
   "people": [
     {
       "id": "p_anna",
@@ -2034,6 +2034,22 @@
       "history": [],
       "createdAt": "2026-11-18T17:51:19.056Z",
       "updatedAt": "2026-11-18T17:51:19.056Z"
+    },
+    {
+      "id": "t_mwqj5flc484ofe",
+      "title": "Рилс Натальи из ВК разместить на Дзен и Ютюб",
+      "notes": "",
+      "date": "2026-11-23",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "normal",
+      "status": "doing",
+      "seriesId": "",
+      "repeat": null,
+      "history": [],
+      "createdAt": "2026-11-21T14:55:31.632Z",
+      "updatedAt": "2026-11-21T14:55:31.632Z"
     }
   ],
   "priorities": {
