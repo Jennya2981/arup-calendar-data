@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "exportedAt": "2026-11-21T14:55:32.241Z",
+  "exportedAt": "2026-11-23T10:23:03.174Z",
   "people": [
     {
       "id": "p_anna",
@@ -154,7 +154,7 @@
       "endTime": "21:30",
       "assigneeId": "p_anna",
       "priority": "high",
-      "status": "rescheduled",
+      "status": "cancelled",
       "seriesId": "",
       "repeat": null,
       "history": [
@@ -174,10 +174,21 @@
             "status": "rescheduled"
           },
           "note": ""
+        },
+        {
+          "type": "status",
+          "at": "2026-11-23T10:23:02.573Z",
+          "from": {
+            "status": "rescheduled"
+          },
+          "to": {
+            "status": "cancelled"
+          },
+          "note": ""
         }
       ],
       "createdAt": "2026-10-22T14:49:38.435Z",
-      "updatedAt": "2026-11-12T19:49:56.337Z"
+      "updatedAt": "2026-11-23T10:23:02.573Z"
     },
     {
       "id": "t_mvjo2q5s98baql",
