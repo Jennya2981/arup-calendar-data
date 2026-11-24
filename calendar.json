@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "exportedAt": "2026-11-24T20:46:45.502Z",
+  "exportedAt": "2026-11-24T20:46:54.247Z",
   "people": [
     {
       "id": "p_anna",
@@ -748,14 +748,14 @@
     },
     {
       "id": "t_mw9ra5cbwon0wh",
-      "title": "Пост Алия",
+      "title": "Пост Алия про Специалист",
       "notes": "",
       "date": "2026-11-24",
       "startTime": "",
       "endTime": "",
       "assigneeId": "p_mvimjmbq93u8vl",
       "priority": "low",
-      "status": "todo",
+      "status": "done",
       "seriesId": "s_mw9ra5cbnk47s4",
       "repeat": {
         "freq": "weekly",
@@ -764,7 +764,7 @@
       },
       "history": [],
       "createdAt": "2026-11-09T21:11:03.563Z",
-      "updatedAt": "2026-11-24T20:46:44.902Z"
+      "updatedAt": "2026-11-24T20:46:53.643Z"
     },
     {
       "id": "t_mw9ra5cbnvrxmd",
