@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "exportedAt": "2026-11-24T20:46:30.121Z",
+  "exportedAt": "2026-11-24T20:46:39.210Z",
   "people": [
     {
       "id": "p_anna",
@@ -353,20 +353,38 @@
       "title": "Совещание",
       "notes": "Обсуждение процессов",
       "date": "2026-11-25",
-      "startTime": "20:00",
+      "startTime": "14:00",
       "endTime": "21:00",
       "assigneeId": "p_anna",
       "priority": "pr_mvimng6zi9fye5",
-      "status": "todo",
+      "status": "rescheduled",
       "seriesId": "t_mvimmz63yfxrl1",
       "repeat": {
         "freq": "weekly",
         "interval": 1,
         "until": "2026-12-29"
       },
-      "history": [],
+      "history": [
+        {
+          "type": "rescheduled",
+          "at": "2026-11-24T20:46:38.597Z",
+          "from": {
+            "date": "2026-11-25",
+            "startTime": "20:00",
+            "endTime": "21:00",
+            "status": "todo"
+          },
+          "to": {
+            "date": "2026-11-25",
+            "startTime": "14:00",
+            "endTime": "21:00",
+            "status": "rescheduled"
+          },
+          "note": ""
+        }
+      ],
       "createdAt": "2026-11-09T21:07:58.000Z",
-      "updatedAt": "2026-11-24T20:46:29.521Z"
+      "updatedAt": "2026-11-24T20:46:38.597Z"
     },
     {
       "id": "t_mw9r665tdnj32d",
