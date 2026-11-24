@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "exportedAt": "2026-11-24T20:46:27.652Z",
+  "exportedAt": "2026-11-24T20:46:30.121Z",
   "people": [
     {
       "id": "p_anna",
@@ -352,7 +352,7 @@
       "id": "t_mw9r665tdkqbxc",
       "title": "Совещание",
       "notes": "Обсуждение процессов",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "startTime": "20:00",
       "endTime": "21:00",
       "assigneeId": "p_anna",
@@ -366,7 +366,7 @@
       },
       "history": [],
       "createdAt": "2026-11-09T21:07:58.000Z",
-      "updatedAt": "2026-11-09T21:11:59.102Z"
+      "updatedAt": "2026-11-24T20:46:29.521Z"
     },
     {
       "id": "t_mw9r665tdnj32d",
