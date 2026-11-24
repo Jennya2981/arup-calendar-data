@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "exportedAt": "2026-11-24T20:47:05.737Z",
+  "exportedAt": "2026-11-24T20:47:51.311Z",
   "people": [
     {
       "id": "p_anna",
@@ -2085,6 +2085,266 @@
       "history": [],
       "createdAt": "2026-11-21T14:55:31.632Z",
       "updatedAt": "2026-11-24T20:47:00.223Z"
+    },
+    {
+      "id": "t_mwv622ltryhj38",
+      "title": "Сдать отчет по выпущенному контенту за ноябрь",
+      "notes": "Посчитать стоимость оплаты преподавателям",
+      "date": "2026-11-27",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "info",
+      "status": "doing",
+      "seriesId": "s_mwv622ltf0r9q2",
+      "repeat": {
+        "freq": "monthly",
+        "interval": 1,
+        "until": ""
+      },
+      "history": [],
+      "createdAt": "2026-11-24T20:47:50.705Z",
+      "updatedAt": "2026-11-24T20:47:50.705Z"
+    },
+    {
+      "id": "t_mwv622lt0xe32r",
+      "title": "Сдать отчет по выпущенному контенту за ноябрь",
+      "notes": "Посчитать стоимость оплаты преподавателям",
+      "date": "2026-12-27",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "info",
+      "status": "doing",
+      "seriesId": "s_mwv622ltf0r9q2",
+      "repeat": {
+        "freq": "monthly",
+        "interval": 1,
+        "until": ""
+      },
+      "history": [],
+      "createdAt": "2026-11-24T20:47:50.705Z",
+      "updatedAt": "2026-11-24T20:47:50.705Z"
+    },
+    {
+      "id": "t_mwv622ltw7omr1",
+      "title": "Сдать отчет по выпущенному контенту за ноябрь",
+      "notes": "Посчитать стоимость оплаты преподавателям",
+      "date": "2027-01-27",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "info",
+      "status": "doing",
+      "seriesId": "s_mwv622ltf0r9q2",
+      "repeat": {
+        "freq": "monthly",
+        "interval": 1,
+        "until": ""
+      },
+      "history": [],
+      "createdAt": "2026-11-24T20:47:50.705Z",
+      "updatedAt": "2026-11-24T20:47:50.705Z"
+    },
+    {
+      "id": "t_mwv622ltcme6x5",
+      "title": "Сдать отчет по выпущенному контенту за ноябрь",
+      "notes": "Посчитать стоимость оплаты преподавателям",
+      "date": "2027-02-27",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "info",
+      "status": "doing",
+      "seriesId": "s_mwv622ltf0r9q2",
+      "repeat": {
+        "freq": "monthly",
+        "interval": 1,
+        "until": ""
+      },
+      "history": [],
+      "createdAt": "2026-11-24T20:47:50.705Z",
+      "updatedAt": "2026-11-24T20:47:50.705Z"
+    },
+    {
+      "id": "t_mwv622lth7ejax",
+      "title": "Сдать отчет по выпущенному контенту за ноябрь",
+      "notes": "Посчитать стоимость оплаты преподавателям",
+      "date": "2027-03-27",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "info",
+      "status": "doing",
+      "seriesId": "s_mwv622ltf0r9q2",
+      "repeat": {
+        "freq": "monthly",
+        "interval": 1,
+        "until": ""
+      },
+      "history": [],
+      "createdAt": "2026-11-24T20:47:50.705Z",
+      "updatedAt": "2026-11-24T20:47:50.705Z"
+    },
+    {
+      "id": "t_mwv622ltpacr9v",
+      "title": "Сдать отчет по выпущенному контенту за ноябрь",
+      "notes": "Посчитать стоимость оплаты преподавателям",
+      "date": "2027-04-27",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "info",
+      "status": "doing",
+      "seriesId": "s_mwv622ltf0r9q2",
+      "repeat": {
+        "freq": "monthly",
+        "interval": 1,
+        "until": ""
+      },
+      "history": [],
+      "createdAt": "2026-11-24T20:47:50.705Z",
+      "updatedAt": "2026-11-24T20:47:50.705Z"
+    },
+    {
+      "id": "t_mwv622ltqs2bme",
+      "title": "Сдать отчет по выпущенному контенту за ноябрь",
+      "notes": "Посчитать стоимость оплаты преподавателям",
+      "date": "2027-05-27",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "info",
+      "status": "doing",
+      "seriesId": "s_mwv622ltf0r9q2",
+      "repeat": {
+        "freq": "monthly",
+        "interval": 1,
+        "until": ""
+      },
+      "history": [],
+      "createdAt": "2026-11-24T20:47:50.705Z",
+      "updatedAt": "2026-11-24T20:47:50.705Z"
+    },
+    {
+      "id": "t_mwv622lt53wptw",
+      "title": "Сдать отчет по выпущенному контенту за ноябрь",
+      "notes": "Посчитать стоимость оплаты преподавателям",
+      "date": "2027-06-27",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "info",
+      "status": "doing",
+      "seriesId": "s_mwv622ltf0r9q2",
+      "repeat": {
+        "freq": "monthly",
+        "interval": 1,
+        "until": ""
+      },
+      "history": [],
+      "createdAt": "2026-11-24T20:47:50.705Z",
+      "updatedAt": "2026-11-24T20:47:50.705Z"
+    },
+    {
+      "id": "t_mwv622lt0a86r6",
+      "title": "Сдать отчет по выпущенному контенту за ноябрь",
+      "notes": "Посчитать стоимость оплаты преподавателям",
+      "date": "2027-07-27",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "info",
+      "status": "doing",
+      "seriesId": "s_mwv622ltf0r9q2",
+      "repeat": {
+        "freq": "monthly",
+        "interval": 1,
+        "until": ""
+      },
+      "history": [],
+      "createdAt": "2026-11-24T20:47:50.705Z",
+      "updatedAt": "2026-11-24T20:47:50.705Z"
+    },
+    {
+      "id": "t_mwv622ltu4oq3w",
+      "title": "Сдать отчет по выпущенному контенту за ноябрь",
+      "notes": "Посчитать стоимость оплаты преподавателям",
+      "date": "2027-08-27",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "info",
+      "status": "doing",
+      "seriesId": "s_mwv622ltf0r9q2",
+      "repeat": {
+        "freq": "monthly",
+        "interval": 1,
+        "until": ""
+      },
+      "history": [],
+      "createdAt": "2026-11-24T20:47:50.705Z",
+      "updatedAt": "2026-11-24T20:47:50.705Z"
+    },
+    {
+      "id": "t_mwv622ltupupoe",
+      "title": "Сдать отчет по выпущенному контенту за ноябрь",
+      "notes": "Посчитать стоимость оплаты преподавателям",
+      "date": "2027-09-27",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "info",
+      "status": "doing",
+      "seriesId": "s_mwv622ltf0r9q2",
+      "repeat": {
+        "freq": "monthly",
+        "interval": 1,
+        "until": ""
+      },
+      "history": [],
+      "createdAt": "2026-11-24T20:47:50.705Z",
+      "updatedAt": "2026-11-24T20:47:50.705Z"
+    },
+    {
+      "id": "t_mwv622ltt8qxe8",
+      "title": "Сдать отчет по выпущенному контенту за ноябрь",
+      "notes": "Посчитать стоимость оплаты преподавателям",
+      "date": "2027-10-27",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "info",
+      "status": "doing",
+      "seriesId": "s_mwv622ltf0r9q2",
+      "repeat": {
+        "freq": "monthly",
+        "interval": 1,
+        "until": ""
+      },
+      "history": [],
+      "createdAt": "2026-11-24T20:47:50.705Z",
+      "updatedAt": "2026-11-24T20:47:50.705Z"
+    },
+    {
+      "id": "t_mwv622ltz853pq",
+      "title": "Сдать отчет по выпущенному контенту за ноябрь",
+      "notes": "Посчитать стоимость оплаты преподавателям",
+      "date": "2027-11-27",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "info",
+      "status": "doing",
+      "seriesId": "s_mwv622ltf0r9q2",
+      "repeat": {
+        "freq": "monthly",
+        "interval": 1,
+        "until": ""
+      },
+      "history": [],
+      "createdAt": "2026-11-24T20:47:50.705Z",
+      "updatedAt": "2026-11-24T20:47:50.705Z"
     }
   ],
   "priorities": {
