@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "exportedAt": "2026-11-23T10:23:25.961Z",
+  "exportedAt": "2026-11-24T20:46:27.652Z",
   "people": [
     {
       "id": "p_anna",
@@ -149,7 +149,7 @@
       "id": "t_mvjnqb2bt5ixcu",
       "title": "Повтор вебинара Тест-драйв профессии",
       "notes": "перенос на другой день и время - утверждается...",
-      "date": "2026-11-24",
+      "date": "2026-12-01",
       "startTime": "11:00",
       "endTime": "21:30",
       "assigneeId": "p_anna",
@@ -179,16 +179,22 @@
           "type": "status",
           "at": "2026-11-23T10:23:02.573Z",
           "from": {
+            "date": "",
+            "startTime": "",
+            "endTime": "",
             "status": "rescheduled"
           },
           "to": {
+            "date": "",
+            "startTime": "",
+            "endTime": "",
             "status": "cancelled"
           },
           "note": ""
         }
       ],
       "createdAt": "2026-10-22T14:49:38.435Z",
-      "updatedAt": "2026-11-23T10:23:25.360Z"
+      "updatedAt": "2026-11-24T20:46:27.051Z"
     },
     {
       "id": "t_mvjo2q5s98baql",
