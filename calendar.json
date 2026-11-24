@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "exportedAt": "2026-11-24T20:47:51.311Z",
+  "exportedAt": "2026-11-24T20:49:08.467Z",
   "people": [
     {
       "id": "p_anna",
@@ -2416,8 +2416,8 @@
       "id": "u_legacy_test",
       "login": "colleague@example.com",
       "passHash": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-      "email": "colleague@example.com",
-      "assigneeId": "p_anna",
+      "email": "jenny2981@yandex.ru",
+      "assigneeId": "p_mvimjmbq93u8vl",
       "notify": {
         "onAssign": true,
         "onMove": true,
@@ -2430,7 +2430,7 @@
         "email"
       ],
       "createdAt": "2026-11-17T16:30:53.005Z",
-      "updatedAt": "2026-11-17T16:30:53.006Z"
+      "updatedAt": "2026-11-24T20:49:07.864Z"
     }
   ]
 }
