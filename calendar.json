@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "exportedAt": "2026-11-25T12:17:45.070Z",
+  "exportedAt": "2026-11-25T12:18:05.061Z",
   "people": [
     {
       "id": "p_anna",
@@ -2356,6 +2356,22 @@
       "history": [],
       "createdAt": "2026-11-24T20:47:50.705Z",
       "updatedAt": "2026-11-24T20:47:50.705Z"
+    },
+    {
+      "id": "t_mww3acrwbsbj84",
+      "title": "Пост Алии про аналитику",
+      "notes": "",
+      "date": "2026-11-25",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "low",
+      "status": "doing",
+      "seriesId": "",
+      "repeat": null,
+      "history": [],
+      "createdAt": "2026-11-25T12:18:04.460Z",
+      "updatedAt": "2026-11-25T12:18:04.460Z"
     }
   ],
   "priorities": {
