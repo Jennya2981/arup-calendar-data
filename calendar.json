@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "exportedAt": "2026-11-27T15:40:07.505Z",
+  "exportedAt": "2026-11-27T15:40:28.916Z",
   "people": [
     {
       "id": "p_anna",
@@ -2378,6 +2378,22 @@
       "history": [],
       "createdAt": "2026-11-25T12:18:04.460Z",
       "updatedAt": "2026-11-25T17:00:12.690Z"
+    },
+    {
+      "id": "t_mwz5ecd5rqzd8j",
+      "title": "Рилс Влада (из нарезки Креоскан)",
+      "notes": "",
+      "date": "2026-11-28",
+      "startTime": "",
+      "endTime": "",
+      "assigneeId": "p_mvimjmbq93u8vl",
+      "priority": "normal",
+      "status": "todo",
+      "seriesId": "",
+      "repeat": null,
+      "history": [],
+      "createdAt": "2026-11-27T15:40:28.313Z",
+      "updatedAt": "2026-11-27T15:40:28.313Z"
     }
   ],
   "priorities": {
